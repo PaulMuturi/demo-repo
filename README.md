@@ -1,3 +1,3 @@
-#Learning to use git
+#Learning to use gitt
 
 Very crucial
